@@ -1,0 +1,11 @@
+#运行设备类别，i or a ，i为ios、a为安卓
+devices_type: a
+
+#运行环境，test or prd ，test为联调环境，prd为生产环境
+environmental: test
+
+#安卓联调环境包名
+a_test_appName: com.etekcity.arizeclient.check
+
+#安卓生产环境包名
+a_prd_appName: com.etekcity.arizeclient

@@ -1,0 +1,27 @@
+#login页面
+welcome文案:
+  a_element_info: com.etekcity.arizeclient.check:id/tv_login_title
+  a_find_type: id
+
+
+Email按钮:
+  a_element_info: Email
+  a_find_type: text
+
+Password按钮:
+  a_element_info: Password
+  a_find_type: text
+
+
+登录按钮:
+  a_element_info: //*[@resource-id="com.etekcity.arizeclient.check:id/login"]/android.widget.FrameLayout[1]
+  a_find_type: xpath
+
+
+显示密码按钮:
+  a_element_info: com.etekcity.arizeclient.check:id/cb_show_pwd
+  a_find_type: id
+
+忘记密码按钮:
+  a_element_info: Forgot password?
+  a_find_type: text

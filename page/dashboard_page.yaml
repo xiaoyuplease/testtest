@@ -1,0 +1,43 @@
+#dashboard主页
+
+dashboard按钮:
+  a_element_info: Dashboard
+  a_find_type: text
+
+
+Access按钮:
+  a_element_info: Access
+  a_find_type: text
+
+
+Activity按钮:
+  a_element_info: Activity
+  a_find_type: text
+
+
+左上角菜单按钮:
+  a_element_info: com.etekcity.arizeclient.check:id/tv_return
+  a_find_type: id
+
+下拉房间列表按钮:
+  a_element_info: All Rooms
+  a_find_type: text
+
+设备设置按钮:
+  a_element_info: //*[@resource-id="com.etekcity.arizeclient.check:id/rv_device"]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.ImageView[2]
+  a_find_type: xpath
+
+关闭告警弹窗按钮:
+  a_element_info: Dismiss Alert
+  a_find_type: text
+
+关闭房间列表按钮:
+  a_element_info: com.etekcity.arizeclient.check:id/iv_back
+  a_find_type: id
+
+
+网关配网按钮:
+  a_element_info: Connect Smart Hub
+  a_find_type: text
+
+
